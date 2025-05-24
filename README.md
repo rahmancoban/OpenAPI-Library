@@ -54,3 +54,8 @@ Swagger Editor kullanılarak test edilmiştir. Aşağıdaki bağlantı ile test 
 2. Arayüzden tüm endpointleri deneyimleyebilirsiniz.
 
 ## 📁 Dosya Yapısı
+
+/
+├── openapi.yaml # API tanımı (OpenAPI 3.0)
+├── README.md # Bu açıklama dosyası
+└── DELIVERY.md # Ödev teslim format dosyası
