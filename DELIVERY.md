@@ -14,7 +14,7 @@
 
 ### 🔗 GitHub Repo Linki
 
-[https://github.com/kullanici-adi/kutuphane-api](https://github.com/kullanici-adi/kutuphane-api)
+https://github.com/rahmancoban/OpenAPI-Library
 
 ---
 
