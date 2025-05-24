@@ -56,6 +56,6 @@ Swagger Editor kullanılarak test edilmiştir. Aşağıdaki bağlantı ile test 
 ## 📁 Dosya Yapısı
 
 - **/**
-- **├── openapi.yaml # API tanımı (OpenAPI 3.0)**
-- **├── README.md # Bu açıklama dosyası**
-- **└── DELIVERY.md # Ödev teslim format dosyası**
+- **├── openapi.yaml:** API tanımı (OpenAPI 3.0)
+- **├── README.md:** Bu açıklama dosyası
+- **└── DELIVERY.md:** Ödev teslim format dosyası
